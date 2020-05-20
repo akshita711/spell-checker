@@ -11,8 +11,6 @@ This project can be used in various dictionary apps or websites for suggesting w
 
 1.	Trie
 2.	Standard Template Library(Hashmap)
-3.	Object Oriented Programming
-
-a)-Classes
-b)-Constructor
-c)-File Handling
+3. Classes
+4. Constructor
+5. File Handling
